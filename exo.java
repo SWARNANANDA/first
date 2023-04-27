@@ -1,10 +1,7 @@
-import java.io.UnsupportedEncodingException;
-
 public class exo {
-    public static void main(String[] args) throws UnsupportedEncodingException {
-       
-          String a="qqq";
-          byte[] b=a.getBytes();
-        System.out.println(b);
+    public static void main(String[] args) {
+        int a=10;
+        System.out.println(a);
+        System.out.println("dkk");
     }
 }
