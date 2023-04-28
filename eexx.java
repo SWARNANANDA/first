@@ -1,5 +1,5 @@
 public class eexx {
     public static void main(String[] args) {
-        System.out.println("dddd");
+        System.out.println("ddd");
     }
 }
