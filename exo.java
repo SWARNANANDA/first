@@ -1,14 +1,7 @@
-import java.util.Date;
-
-
-public final class exo {
-    void a(){
-        System.out.println("dk");
-    }
+public class exo {
     public static void main(String[] args) {
-        
-        //System.out.println("dk");
-          exo d=new exo();
-          d.a();
+        int a=10;
+        System.out.println(a);
+        System.out.println("dk");
     }
 }
